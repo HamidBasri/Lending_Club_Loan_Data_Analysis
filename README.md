@@ -1,7 +1,7 @@
 ```python
 """
 LENDING CLUB LOAN DATA ANALYSIS
-Enhanced Student Project Notebook
+Enhanced Project Notebook
 Deep Learning with Keras and TensorFlow
 
 PROJECT GOAL
